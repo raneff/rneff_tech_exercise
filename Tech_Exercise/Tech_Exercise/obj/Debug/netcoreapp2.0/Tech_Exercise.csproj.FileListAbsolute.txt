@@ -9,3 +9,14 @@
 /Users/rachaelneff/Projects/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.AssemblyInfo.cs
 /Users/rachaelneff/Projects/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.dll
 /Users/rachaelneff/Projects/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.pdb
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/bin/Debug/netcoreapp2.0/Tech_Exercise.deps.json
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/bin/Debug/netcoreapp2.0/Tech_Exercise.runtimeconfig.json
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/bin/Debug/netcoreapp2.0/Tech_Exercise.runtimeconfig.dev.json
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/bin/Debug/netcoreapp2.0/Tech_Exercise.dll
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/bin/Debug/netcoreapp2.0/Tech_Exercise.pdb
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.csprojResolveAssemblyReference.cache
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.csproj.CoreCompileInputs.cache
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.AssemblyInfoInputs.cache
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.AssemblyInfo.cs
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.dll
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/obj/Debug/netcoreapp2.0/Tech_Exercise.pdb

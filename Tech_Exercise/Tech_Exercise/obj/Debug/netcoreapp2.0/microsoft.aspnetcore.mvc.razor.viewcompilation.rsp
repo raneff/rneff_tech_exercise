@@ -1,0 +1,12 @@
+/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=Tech_Exercise
+--content-root=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/Home/About.cshtml
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/Home/Contact.cshtml
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/Home/Index.cshtml
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/Shared/Error.cshtml
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/Shared/_Layout.cshtml
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/_ViewImports.cshtml
+--file=/Users/rachaelneff/Documents/GitHub/rneff_tech_exercise/Tech_Exercise/Tech_Exercise/Views/_ViewStart.cshtml
