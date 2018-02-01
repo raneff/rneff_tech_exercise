@@ -5,29 +5,29 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Tech_Exercise.Models;
+using static Tech_Exercise.Models.MusicLibraryModel;
+using Tech_Exercise.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Tech_Exercise.Controllers
 {
     public class HomeController : Controller
     {
+        private MusicLibraryContext dbc = new MusicLibraryContext();
+
         public IActionResult Index()
         {
-            return View();
+            IEnumerable<Song> _viewModel;
+            _viewModel = dbc.Song.AsEnumerable();
+            return View(_viewModel);
         }
 
-        public IActionResult About()
+        public IActionResult Song()
         {
-            ViewData["Message"] = "Your application description page.";
 
             return View();
         }
 
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
-        }
 
         public IActionResult Error()
         {

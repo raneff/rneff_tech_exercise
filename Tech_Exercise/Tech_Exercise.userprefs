@@ -1,9 +1,15 @@
 ﻿<Properties StartupConfiguration="{A6F33F35-E5C8-4DB7-805D-AA877279AEF1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tech_Exercise/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tech_Exercise/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="Tech_Exercise/Views/Home/Index.cshtml" Line="8" Column="8" />
-      <File FileName="Tech_Exercise/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="Tech_Exercise/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Tech_Exercise/Data/MusicLibraryContext.cs" Line="22" Column="63" />
+      <File FileName="Tech_Exercise/Models/MusicLibraryModel.cs" Line="14" Column="42" />
+      <File FileName="Tech_Exercise/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="Tech_Exercise/Views/Home/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="Tech_Exercise/Views/Home/Index.cshtml" Line="7" Column="20" />
+      <File FileName="Tech_Exercise/Controllers/SongController.cs" Line="27" Column="13" />
+      <File FileName="Tech_Exercise/Views/Song/Add.cshtml" Line="40" Column="8" />
+      <File FileName="Tech_Exercise/Program.cs" Line="20" Column="1" />
+      <File FileName="Tech_Exercise/Views/Shared/_Layout.cshtml" Line="32" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Tech__Exercise PreferredExecutionTarget="MonoDevelop.Default" />

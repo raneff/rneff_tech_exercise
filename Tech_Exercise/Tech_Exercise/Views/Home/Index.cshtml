@@ -1,8 +1,32 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<Tech_Exercise.Models.MusicLibraryModel.Song>
+@{
+    ViewData["Title"] = "Songs";
 }
-<html>
-<body>
-Hello world
-</body>
-</html>
+<div class="table-intro">
+    <h2>Pieces</h2>
+    <p>This is the sheet music in the library.</p>
+</div>
+<a asp-area="" asp-controller="Song" asp-action="Add" class="btn btn-primary" id="btnAdd"><span class="glyphicon glyphicon-plus-sign"></span> Add Song</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Piece</th>
+            <th>Composer</th>
+            <th>Date Checked Out</th>
+            <th>Due Date</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Tech_Exercise.Models.MusicLibraryModel.Song song in Model)
+        {
+            <tr>
+                <td>@song.Piece</td>
+                <td>@song.Composer</td>
+                <td>@song.DateCheckedOut</td>
+                <td>@song.DueDate</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
